@@ -221,6 +221,10 @@ while count < T:
                         IA_s_matched[i] = j
                         IA_s_filled[i] = 1
                         step[i] = t
+                        if IA_position[rej]==C:
+                            IA_s_matched[rej] = -1
+                            IA_s_filled[rej] = 1
+                            IA_num_match += 1
                     else:
                         IA_position[i] += 1
                         step[i] = 0
