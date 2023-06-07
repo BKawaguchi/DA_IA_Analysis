@@ -52,7 +52,7 @@ print()
 count = 0
 while count < T:
     
-    #SU = αCVj+(1-α)PVij
+    #学生の選好式　SU = αCVj+(1-α)PVij
     #研究室jの人気度
     CV = []
     for i in range(C):
@@ -89,11 +89,8 @@ while count < T:
     #応募できる研究室だけの選好を作成
     for i in range(S):
         del s_prefs[i][apply_num:C]
-        
-    #print('学生の選好')
-    #print(s_prefs)
     
-    #CU = βSVi+(1-β)QVji
+    #研究室の選好式　CU = βSVi+(1-β)QVji
     #学生iの人気度
     SV = []
     for i in range(S):
@@ -126,10 +123,6 @@ while count < T:
     for i in range(C):
         for j in range(S):
             c_prefs[i][j] += 1
-            
-    #print('研究室の選好')
-    #print(c_prefs)
-    #print()
         
     #研究室の選好をランクに変換
     c_rank = [[0]*S for i in range(C)]
