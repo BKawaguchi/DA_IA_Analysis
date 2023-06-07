@@ -373,7 +373,7 @@ while count < T:
 
     count += 1
 
-print('マッチした学生の中で、第一希望にマッチした学生の数, The number of students getting their first choice')
+print('マッチした学生の中で第一希望にマッチした学生の数, The number of students getting their first choice')
 print('DA: {} 平均値: {} 割合: {}%'.format(DA_s_noenvy_sum, DA_s_noenvy_sum/T, ((DA_s_noenvy_sum/T)/(DA_s_matched_num_sum/T))*100))
 print('IA: {} 平均値: {} 割合: {}%'.format(IA_s_noenvy_sum, IA_s_noenvy_sum/T, ((IA_s_noenvy_sum/T)/(IA_s_matched_num_sum/T))*100))
 print()
