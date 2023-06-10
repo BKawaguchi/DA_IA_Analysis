@@ -51,14 +51,23 @@ DAアルゴリズムとボストン方式の二つのアルゴリズムによる
 ## 使用例
 使用例及び研究結果として以下に, 学生数：561, 研究室：44, 定員：各13, *α*：0.5, *β*：0.7の仮想的なマッチング市場において, 学生が応募できる研究室の数を44,20,10,5,2へとシフトさせた時の各評価軸の変化を画像で掲載する. 応募可能な研究室数だけではなく, マッチングの規模と相関パラメター*α*,*β*のシフトによっても値は大きく変わる.
 
+<img width="750" alt="スクリーンショット 0005-06-11 1 41 49" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/d8d28e10-6a73-4bb8-ba40-0cb3b876f2c6">
+
 <img width="805" alt="スクリーンショット 0005-06-11 1 42 30" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/04cde04a-3695-4a5d-a129-e3398edf07a5">
-¥¥¥¥¥
+
+<img width="805" alt="スクリーンショット 0005-06-11 1 43 11" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/2f4c9edb-8b83-49b5-a7a5-73aad34279fa">
 
 <img width="805" alt="スクリーンショット 0005-06-11 1 43 26" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/3ed16b85-a2b8-46c2-95b3-4babba43286b">
 
+<img width="805" alt="スクリーンショット 0005-06-11 1 43 45" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/9112f7c8-95e6-4e44-b984-0f705c217d0c">
+
 <img width="805" alt="スクリーンショット 0005-06-11 1 44 13" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/4de89254-9c03-483b-ba52-9747d61b22c3">
 
+<img width="805" alt="スクリーンショット 0005-06-11 1 44 26" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/a226bc71-908d-4c3c-9e57-5bd8cbd1f837">
+
 <img width="805" alt="スクリーンショット 0005-06-11 1 44 48" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/d60b44cc-cf0c-42a8-8e87-25db740e1ba6">
+
+<img width="805" alt="スクリーンショット 0005-06-11 1 45 03" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/4fa655e7-4185-4857-b7c5-aa85d11c33de">
 
 <img width="805" alt="スクリーンショット 0005-06-11 1 45 19" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/ecb8f4c3-a869-42f8-ac20-ee3d63c4865b">
 
