@@ -49,8 +49,7 @@ DAアルゴリズムとボストン方式の二つのアルゴリズムによる
 ※定員については, CPを無効にして123行目のcapacity = CPに, CPを削除し研究室数の要素を持ったリストを記述することで, 全研究室に個別の定員を設定したシミュレーションをすることもできる.
 
 ## 使用例
-<img width="834" alt="スクリーンショット 0005-06-08 7 05 38" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/7fde268e-d993-480c-8fd1-769a80723729">
-<img width="834" alt="スクリーンショット 0005-06-08 7 05 52" src="https://github.com/kwgc01/DA_IA_Analysis/assets/119061405/e7aeff81-517f-4e28-bf89-5bbad437380b">
+
 
 
 ## あとがき
